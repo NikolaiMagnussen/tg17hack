@@ -1,2 +1,0 @@
-User-agent: *
-Disallow: /super-secret-flag-file-that-no-one-should-know-about.txt
